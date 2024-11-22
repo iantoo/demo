@@ -1,3 +1,3 @@
 #  DEMO
 
-Steps to machine learning
+Steps to machine learning.
